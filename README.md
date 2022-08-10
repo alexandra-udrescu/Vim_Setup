@@ -25,3 +25,4 @@ TODO:
 - autocomplete & errors highlight
 - find plugin
 - goto line
+- parallel tabs
