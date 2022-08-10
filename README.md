@@ -20,6 +20,8 @@ Useful Shortcuts:
 - Undo - ctrl + Z
 - Redo - ctrl + Y
 
+- When having several terminals open, toggle: alt + 1/2/3/...
+
 TODO:
 =====
 - autocomplete & errors highlight
