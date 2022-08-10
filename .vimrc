@@ -1,3 +1,10 @@
+"""" TABS
+set autoindent
+set shiftwidth=4
+" spaces for tabs
+" set expandtab
+set tabstop=4
+
 """" LINE NUMBERS
 set number
 
@@ -7,7 +14,7 @@ set termguicolors
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 syntax enable
-"colorscheme shades_of_purple
+" colorscheme shades_of_purple
 colorscheme purpura
 
 """" RAINBOW PARANTHESES
@@ -36,7 +43,7 @@ map  <C-a> <C-w>h
 " Right Tab (Code) - ctrl + D
 map  <C-d> <C-w>l
 " Show Hidden Files: shift + I
-
+map <F2> :NERDTreeFind<CR>
 
 """" SHORTCUTS: UNDO REDO
 " Undo - ctrl + Z
