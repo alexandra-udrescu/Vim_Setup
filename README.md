@@ -19,7 +19,7 @@ Useful Shortcuts:
 - Show Hidden Files: shift + I
 - Undo - ctrl + Z
 - Redo - ctrl + Y
-
+- Goto line: :<line_number> (ex: :12)
 - When having several terminals open, toggle: alt + 1/2/3/...
 
 TODO:
