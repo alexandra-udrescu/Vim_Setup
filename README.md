@@ -28,3 +28,5 @@ TODO:
 - autocomplete & errors highlight
 - find plugin (find file, find word, find word in all files)
 - parallel tabs
+- select area of code
+- comment area of code
