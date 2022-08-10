@@ -21,6 +21,7 @@ Useful Shortcuts:
 - Redo - ctrl + Y
 - Goto line: :<line_number> (ex: :12)
 - When having several terminals open, toggle: alt + 1/2/3/...
+- F2: show current file in node tree
 
 TODO:
 =====
