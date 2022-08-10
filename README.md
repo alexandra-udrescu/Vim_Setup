@@ -26,6 +26,5 @@ Useful Shortcuts:
 TODO:
 =====
 - autocomplete & errors highlight
-- find plugin
-- goto line
+- find plugin (find file, find word, find word in all files)
 - parallel tabs
