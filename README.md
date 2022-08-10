@@ -11,14 +11,14 @@ Used Plugins:
 
 Useful Shortcuts:
 =================
-Right Tab - ctrl + R
-Left Tab - ctrl + E
-New Tab - shift + T / ctrl + T
-Left Tab (Tree) - ctrl + A
-Right Tab (Code) - ctrl + D
-Show Hidden Files: shift + I
-Undo - ctrl + Z
-Redo - ctrl + Y
+- Right Tab - ctrl + R
+- Left Tab - ctrl + E
+- New Tab - shift + T / ctrl + T
+- Left Tab (Tree) - ctrl + A
+- Right Tab (Code) - ctrl + D
+- Show Hidden Files: shift + I
+- Undo - ctrl + Z
+- Redo - ctrl + Y
 
 TODO:
 =====
