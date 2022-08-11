@@ -1,5 +1,5 @@
-Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
-Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
+- Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
+- Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
 Used Plugins:
 =============
