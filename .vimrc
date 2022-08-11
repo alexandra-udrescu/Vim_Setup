@@ -84,3 +84,11 @@ map <F2> :NERDTreeFind<CR>
 nnoremap <C-Z> u
 " Redo - ctrl + Y
 nnoremap <C-Y> <C-Y>
+
+
+"""" Other Existing Shortcuts
+Ctrl + V + arrows: select lines
+Comment multiple lines: select lines with Ctrl + V + arrors => Shift + I => put character(s) on the first line => Esc => Voila!
+Uncomment multiple lines: select characters to delete with Ctrl + V + arrors => press X or D => Voila!
+
+
