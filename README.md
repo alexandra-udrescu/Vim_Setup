@@ -1,4 +1,4 @@
-Get Latest Version of Vim: https://www.vim.org/download.php
+Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 
 Used Plugins:
 =============
