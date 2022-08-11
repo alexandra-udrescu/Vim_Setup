@@ -28,11 +28,18 @@ Useful Shortcuts:
 - Goto line: :<line_number> (ex: :12)
 - When having several terminals open, toggle: alt + 1/2/3/...
 - F2: show current file in node tree
+- Ctrl + V + arrows: select lines
+- Comment multiple lines:
+  - select lines with Ctrl + V + arrors => Shift + I => put character(s) on the first line => Esc => Voila!
+- Uncomment multiple lines:
+  - select characters to delete with Ctrl + V + arrors => press X or D => Voila!
+
+Useful Bash Commands:
+=====================
+- locate: find a file/directory
+
 
 TODO:
 =====
 - autocomplete & errors highlight
-- find plugin (find file, find word, find word in all files)
-- parallel tabs
-- select area of code
-- comment area of code
+- find plugin (find word, find word in all files)
