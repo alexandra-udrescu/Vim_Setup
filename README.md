@@ -41,6 +41,9 @@ Useful Bash Commands:
 
 TODO:
 =====
-- autocomplete & errors highlight
 - find plugin (find word, find word in all files)
 - nyan cat :'(
+
+Can be improved later:
+======================
+- autocomplete & errors highlight
