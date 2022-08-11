@@ -43,3 +43,4 @@ TODO:
 =====
 - autocomplete & errors highlight
 - find plugin (find word, find word in all files)
+- nyan cat :'(
