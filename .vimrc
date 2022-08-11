@@ -1,3 +1,37 @@
+execute pathogen#infect('~/.vim/bundle/{}')
+
+"""" You Complete Me
+set encoding=utf-8
+let g:ycm_min_num_of_chars_for_completion = 1
+let g:ycm_max_num_candidates = 10
+let g:ycm_max_num_candidates_to_detail = -1
+let g:ycm_show_diagnostics_ui = 1
+let g:ycm_error_symbol = '💩'
+let g:ycm_warning_symbol = '⚡'
+let g:ycm_enable_diagnostic_signs = 1
+let g:ycm_enable_diagnostic_highlighting = 1
+let g:ycm_echo_current_diagnostic = 1
+let g:ycm_complete_in_comments = 1
+let g:ycm_complete_in_strings = 1
+let g:ycm_collect_identifiers_from_comments_and_strings = 0
+let g:ycm_add_preview_to_completeopt = 1
+let g:ycm_max_diagnostics_to_display = 100
+let g:ycm_autoclose_preview_window_after_insertion = 0
+let g:ycm_autoclose_preview_window_after_completion = 0
+let g:ycm_key_list_select_completion = ['<Down>']
+let g:ycm_key_list_previous_completion = ['<Up>']
+let g:ycm_key_list_stop_completion = ['<C-Enter>']
+let g:ycm_key_invoke_completion = '<C-Space>'
+let g:ycm_show_detailed_diag_in_popup=1
+let g:ycm_show_detailed_diag_in_popup = 1
+let g:ycm_filepath_completion_use_working_dir = 1
+let g:ycm_semantic_triggers = {
+  \   'cpp': [ 're!.' ],
+  \   'c': [ 're!.' ]
+  \ }
+
+
+
 """" TABS
 set autoindent
 set shiftwidth=4
