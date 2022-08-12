@@ -1,15 +1,15 @@
 - Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 - Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
-- * = must be installed manually as they are not added in this repo (see install_guide.txt file for instuctions)
+- ⚠️ = must be installed manually as they are not added in this repo (see install_guide.txt file for instuctions)
 
 Used Plugins:
 =============
 - functionality:
   - NerdTree (5.0.0) https://www.vim.org/scripts/script.php?script%5Fid=1658
-  - * [Pathogen: https://github.com/tpope/vim-pathogen]
-  - * YouCompleteMe:https://github.com/ycm-core/YouCompleteMe
-  - * YCM also needs in /YouCompleteMe/third_party/ycmd/ : https://github.com/ycm-core/ycmd/tree/d1707c14883ced0e32fcca9c0f5dbd6849b5f751
+  - ⚠️ [Pathogen: https://github.com/tpope/vim-pathogen]
+  - ⚠️ YouCompleteMe:https://github.com/ycm-core/YouCompleteMe
+  - ⚠️ YCM also needs in /YouCompleteMe/third_party/ycmd/ : https://github.com/ycm-core/ycmd/tree/d1707c14883ced0e32fcca9c0f5dbd6849b5f751
 - colors:
   - Rainbow Parantheses: https://www.vim.org/scripts/script.php?script_id=3772
   - Rainbow Indent Experimental: https://github.com/lesguillemets/rainbow_indent_experimental.vim
