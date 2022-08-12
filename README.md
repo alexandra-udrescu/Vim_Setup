@@ -18,7 +18,6 @@ Used Plugins:
 =============
 - functionality:
   - NerdTree (5.0.0) https://www.vim.org/scripts/script.php?script%5Fid=1658
-  - ⚠️ [Pathogen: https://github.com/tpope/vim-pathogen] [unused]
   - ⚠️ YouCompleteMe:https://github.com/ycm-core/YouCompleteMe
   - ⚠️ YCM also needs in /YouCompleteMe/third_party/ycmd/ : https://github.com/ycm-core/ycmd/tree/d1707c14883ced0e32fcca9c0f5dbd6849b5f751
   - NerdComment: https://github.com/preservim/nerdcommenter
