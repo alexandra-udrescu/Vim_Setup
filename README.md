@@ -29,12 +29,12 @@ Useful Shortcuts:
 - Redo - ctrl + Y
 - Goto line: :<line_number> (ex: :12)
 - When having several terminals open, toggle: alt + 1/2/3/...
-- F2: show current file in node tree
-- Ctrl + V + arrows: select lines
+- Show current file in node tree: F2
+- Select lines: ctrl + V + arrows
 - Comment multiple lines:
-  - select lines with Ctrl + V + arrors => Shift + I => put character(s) on the first line => Esc => Voila!
+  - select lines with ctrl + V + arrors => shift + I => put character(s) on the first line => Esc => Voila!
 - Uncomment multiple lines:
-  - select characters to delete with Ctrl + V + arrors => press X or D => Voila!
+  - select characters to delete with ctrl + V + arrors => press X or D => Voila!
 
 Useful Bash Commands:
 =====================
