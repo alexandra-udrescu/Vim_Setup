@@ -58,3 +58,7 @@ TODO:
 - nyan cat :'(
 - add install guide for YCM and its dependencies: install_guide.txt
 - check hover for documentation
+- nerd comment: https://github.com/preservim/nerdcommenter
+nmap <C-_>   <Plug>NERDCommenterToggle
+vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
+
