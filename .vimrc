@@ -1,5 +1,3 @@
-execute pathogen#infect('~/.vim/bundle/{}')
-
 """" You Complete Me
 set encoding=utf-8
 let g:ycm_min_num_of_chars_for_completion = 1
