@@ -36,7 +36,7 @@ Useful Shortcuts:
 
 Useful Bash Commands:
 =====================
-- locate: find a file/directory
+- locate <pattern>: find a file/directory
 
 
 TODO:
