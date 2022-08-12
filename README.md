@@ -21,6 +21,7 @@ Used Plugins:
   - ⚠️ [Pathogen: https://github.com/tpope/vim-pathogen] [unused]
   - ⚠️ YouCompleteMe:https://github.com/ycm-core/YouCompleteMe
   - ⚠️ YCM also needs in /YouCompleteMe/third_party/ycmd/ : https://github.com/ycm-core/ycmd/tree/d1707c14883ced0e32fcca9c0f5dbd6849b5f751
+  - NerdComment: https://github.com/preservim/nerdcommenter
 - colors:
   - Rainbow Parantheses: https://www.vim.org/scripts/script.php?script_id=3772
   - Rainbow Indent Experimental: https://github.com/lesguillemets/rainbow_indent_experimental.vim
@@ -42,9 +43,9 @@ Useful Shortcuts:
 - When having several terminals open, toggle: alt + 1/2/3/...
 - Show current file in node tree: F2
 - Select lines: ctrl + V + arrows
-- Comment multiple lines:
+- Comment multiple lines: select lines & ctrl + /
   - select lines with ctrl + V + arrors => shift + I => put character(s) on the first line => Esc => Voila!
-- Uncomment multiple lines:
+- Uncomment multiple lines: select lines & ctrl + /
   - select characters to delete with ctrl + V + arrors => press X or D => Voila!
 
 Useful Bash Commands:
@@ -59,7 +60,3 @@ TODO:
 - nyan cat :'(
 - add install guide for YCM and its dependencies: install_guide.txt
 - check hover for documentation
-- nerd comment: https://github.com/preservim/nerdcommenter
-nmap <C-_>   <Plug>NERDCommenterToggle
-vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
-
