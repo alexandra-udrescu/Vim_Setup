@@ -54,3 +54,4 @@ TODO:
 - find plugin (find word, find word in all files)
 - nyan cat :'(
 - add install guide for YCM and its dependencies: install_guide.txt
+- check hover for documentation
