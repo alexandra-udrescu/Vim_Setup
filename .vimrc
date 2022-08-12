@@ -30,8 +30,6 @@ let g:ycm_semantic_triggers = {
   \   'c': [ 're!.' ]
   \ }
 
-
-
 """" TABS
 set autoindent
 set shiftwidth=4
@@ -79,16 +77,18 @@ map  <C-d> <C-w>l
 " Show Hidden Files: shift + I
 map <F2> :NERDTreeFind<CR>
 
+"""" NERD COMMENT
+" Comment/Uncomment with ctrl + /
+nmap <C-_>   <Plug>NERDCommenterToggle
+vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
+
 """" SHORTCUTS: UNDO REDO
 " Undo - ctrl + Z
 nnoremap <C-Z> u
 " Redo - ctrl + Y
 nnoremap <C-Y> <C-Y>
 
-
 """" Other Existing Shortcuts
 Ctrl + V + arrows: select lines
 Comment multiple lines: select lines with Ctrl + V + arrors => Shift + I => put character(s) on the first line => Esc => Voila!
 Uncomment multiple lines: select characters to delete with Ctrl + V + arrors => press X or D => Voila!
-
-
