@@ -18,6 +18,7 @@ Notes about files:
 - *.ycm_extra_conf.py* should be placed in the C/C++/Cuda/C# projects, and edit the used language in the flags
 - *.vimrc should* be placed in home directory(~)
 - the rest of the files and folders should be placed in ~/.vim
+- Chrome_Themes just contains cute stuff for Google Chrome, take it out from .vim/
 
 Used Plugins:
 =============
