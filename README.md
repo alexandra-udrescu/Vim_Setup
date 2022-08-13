@@ -7,6 +7,9 @@ Terminal & Linux Env:
 - Cursors: https://github.com/yeyushengfan258/Lyra-Cursors
 - Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 - Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
+- For Chrome: 
+  - https://www.themebeta.com/chrome/theme/1432465
+  - https://www.themebeta.com/chrome/theme/1282588
 
 - ⚠️ = must be installed manually as they are not added in this repo (see install_guide.txt file for instuctions)
 
