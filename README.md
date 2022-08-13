@@ -3,7 +3,6 @@ Terminal:
 - sudo apt install gnome-tweaks & https://ubuntuhandbook.org/index.php/2022/05/install-themes-ubuntu-22-04/
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
 - https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
-- https://github.com/EliverLara/candy-icons
 - https://itsfoss.com/flatpak-app-apply-theme/
 - Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 - Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
