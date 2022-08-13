@@ -1,6 +1,6 @@
 Terminal:
 ==========
-- sudo apt install gnome-tweaks
+- sudo apt install gnome-tweaks & https://ubuntuhandbook.org/index.php/2022/05/install-themes-ubuntu-22-04/
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
 - https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
 - https://averagelinuxuser.com/top-5-xfce-themes/
