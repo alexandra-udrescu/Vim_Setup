@@ -1,6 +1,6 @@
 Terminal & Linux Env:
 =====================
-- sudo apt install gnome-tweaks & https://ubuntuhandbook.org/index.php/2022/05/install-themes-ubuntu-22-04/
+- sudo apt install gnome-tweaks & use Tweaks app that is installed with it
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
 - Theme: https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
 - Apply theme to other apps: https://itsfoss.com/flatpak-app-apply-theme/
