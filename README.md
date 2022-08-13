@@ -2,8 +2,9 @@ Terminal & Linux Env:
 =====================
 - sudo apt install gnome-tweaks & https://ubuntuhandbook.org/index.php/2022/05/install-themes-ubuntu-22-04/
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
-- Theme & Icons: https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
+- Theme: https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
 - Apply theme to other apps: https://itsfoss.com/flatpak-app-apply-theme/
+- Icons: https://www.addictivetips.com/ubuntu-linux-tips/install-candy-icon-theme-in-linux/
 - Cursors: https://github.com/yeyushengfan258/Lyra-Cursors
 - Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 - Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
