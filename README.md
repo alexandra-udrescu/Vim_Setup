@@ -4,6 +4,7 @@ Terminal:
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
 - https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
 - https://itsfoss.com/flatpak-app-apply-theme/
+- https://github.com/yeyushengfan258/Lyra-Cursors
 - Get Latest Version of Vim: https://itsfoss.com/install-latest-vim-ubuntu/
 - Get Latest Version of Cmake: https://www.linuxcapable.com/install-cmake-on-ubuntu-20-04-lts/
 
