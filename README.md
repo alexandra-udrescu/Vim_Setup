@@ -1,6 +1,6 @@
 Terminal:
 ==========
-- 🐱‍🚀🐱‍👤🐱‍👓🐱‍🏍🐱‍💻 
+- sudo apt install gnome-tweaks
 - https://www.youtube.com/watch?v=q1VbEEpAct4&ab_channel=FamTam
 - https://github.com/Roboron3042/Cyberpunk-Neon & https://www.ubuntufree.com/download-cyberpunk-neon-theme/
 - https://averagelinuxuser.com/top-5-xfce-themes/
