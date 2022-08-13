@@ -76,6 +76,7 @@ map  <C-d> <C-w>l
 map <F2> :NERDTreeFind<CR>
 
 """" NERD COMMENT
+filetype plugin on
 " Comment/Uncomment with ctrl + /
 nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
