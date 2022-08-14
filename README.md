@@ -11,7 +11,6 @@ Terminal & Linux Env:
 - For Chrome: 
   - https://www.themebeta.com/chrome/theme/1432465
   - https://www.themebeta.com/chrome/theme/1282588
-- Widgets: Screenlets: https://www.itsmarttricks.com/how-to-install-screenlets-ubuntu-desktop-widgets-app-in-ubuntu/
 
 - ⚠️ = must be installed manually as they are not added in this repo (see install_guide.txt file for instuctions)
 
@@ -54,3 +53,26 @@ Useful Shortcuts:
   - select lines with ctrl + V + arrors => shift + I => put character(s) on the first line => Esc => Voila!
 - Uncomment multiple lines: select lines & ctrl + /
   - select characters to delete with ctrl + V + arrors => press X or D => Voila!
+
+
+PERSONALIZED BASH COMMANDS
+==========================
+Add text below to your ~/.bashrc file
+
+# PERSONALIZED COMMANDS
+
+# Note: Try to define functions instead of aliases so they can work with uwu
+
+# Applies rainbow color to the output of the command that the "uwu" prefixes
+# e.g: uwu ls -a
+uwu() {
+	if [ -t 1 ]; then
+	"$@" | lolcat
+	else
+   		"$@"
+	fi
+}
+# Recursive serach a pattern through all files in current directory + show file name and line
+wfind() {
+	grep -rnw . -e "$@"
+}
