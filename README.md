@@ -11,6 +11,7 @@ Terminal & Linux Env:
 - For Chrome: 
   - https://www.themebeta.com/chrome/theme/1432465
   - https://www.themebeta.com/chrome/theme/1282588
+- Widgets: Screenlets: https://www.itsmarttricks.com/how-to-install-screenlets-ubuntu-desktop-widgets-app-in-ubuntu/
 
 - ⚠️ = must be installed manually as they are not added in this repo (see install_guide.txt file for instuctions)
 
