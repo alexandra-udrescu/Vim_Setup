@@ -57,6 +57,6 @@ Useful Shortcuts:
 
 PERSONALIZED BASH COMMANDS
 ==========================
-Add text in .bashrc file to your ~/.bashrc file.
-uwu - applies rainbow color to the output of the command that the "uwu" prefixes
-wfind - recursive serach a pattern through all files in current directory + show file name and line
+- Add text in .bashrc file to your ~/.bashrc file.
+> uwu - applies rainbow color to the output of the command that the "uwu" prefixes
+> wfind - recursive serach a pattern through all files in current directory + show file name and line
